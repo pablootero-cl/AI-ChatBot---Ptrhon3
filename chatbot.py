@@ -1,3 +1,4 @@
+# Codigo por Pablo Otero. 18/06/2024 Python 3.11.9 
 # Por defecto he configurado  LLAMA3 de 8b, puedes re-configurarlo con cualquier AI de la lista
 # (2.9GB)Activar GPU, Requiere tener instalado CUDA https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_local
 # (204MB) Instalar ollama desde https://ollama.com de lo contrario  este python no funcinara.
